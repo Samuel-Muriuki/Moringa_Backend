@@ -159,5 +159,6 @@ CORS_ALLOW_CREDENTIALS = True
     
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:4200',
-    'http://localhost:8000'
+    'http://localhost:8000',
+    'https://samm-moringa.herokuapp.com'
 )
